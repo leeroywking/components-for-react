@@ -1,6 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import AutoComplete from './components/autocomplete/autocomplete.js'
+
 
 function App() {
   return (
@@ -19,6 +21,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <AutoComplete/>
     </div>
   );
 }
