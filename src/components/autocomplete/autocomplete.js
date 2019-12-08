@@ -25,6 +25,7 @@ export default () => {
     <input type="text" name="name" onChange={handleSuggestions}/>
       </label>
       <input type="submit" value="Submit" />
+      
     </form>
   )
 }
