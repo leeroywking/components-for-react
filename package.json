@@ -30,5 +30,22 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeroywking/components-for-react.git"
+  },
+  "keywords": [
+    "react",
+    "components"
+  ],
+  "author": "Lee-Roy King",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leeroywking/components-for-react/issues"
+  },
+  "homepage": "https://github.com/leeroywking/components-for-react#readme"
 }
